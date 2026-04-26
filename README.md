@@ -1,4 +1,4 @@
-# 🧠 CHᴀᴛᴜʀ v3.0 — Smart File Organizer
+#  📂Smart File Organizer
 
 A Python-based desktop tool that automatically organizes files into categorized folders with a clean GUI interface.
 
@@ -58,7 +58,7 @@ A Python-based desktop tool that automatically organizes files into categorized 
 
 ## 👤 Author
 
-**Pranjal (Pranjal 3.0)**  
+**Pranjal Gupta **  
 Python Developer | AI Builder | Automation Enthusiast
 
 ---
