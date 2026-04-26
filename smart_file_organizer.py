@@ -55,7 +55,7 @@ inner_frame = tk.Frame(border_frame, bg='#121212') # Dark Grey Inner
 inner_frame.pack(expand=True, fill='both')
 
 # UI Elements
-title_lbl = tk.Label(inner_frame, text='MART FILE ORGANIZER', font=('Consolas', 16, 'bold'), bg='#121212', fg='#39FF14')
+title_lbl = tk.Label(inner_frame, text='SMART FILE ORGANIZER', font=('Consolas', 16, 'bold'), bg='#121212', fg='#39FF14')
 title_lbl.pack(pady=20)
 
 organize_btn = tk.Button(
