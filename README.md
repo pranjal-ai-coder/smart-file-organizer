@@ -1,1 +1,6 @@
-tset file only 
+# Test Project
+
+This is my first GitHub project.
+
+## Author
+Pranjal
