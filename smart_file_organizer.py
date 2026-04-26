@@ -39,8 +39,8 @@ def organize_files():
                 except Exception as e:
                     print(f"Error moving {filename}: {e}")
     
-    messagebox.showinfo('Chatur v3.0', 'Boss, saari files successfully organize ho gayi hain!')
-smart_file_organizer.py
+    messagebox.showinfo('all files organize successfully')
+
 # --- GUI: Dark Theme & Neon Green Border ---
 root = tk.Tk()
 root.title('SMART FILE ORGANIZER')
@@ -55,7 +55,7 @@ inner_frame = tk.Frame(border_frame, bg='#121212') # Dark Grey Inner
 inner_frame.pack(expand=True, fill='both')
 
 # UI Elements
-title_lbl = tk.Label(inner_frame, text='CHᴀᴛᴜʀ v3.0', font=('Consolas', 16, 'bold'), bg='#121212', fg='#39FF14')
+title_lbl = tk.Label(inner_frame, text='MART FILE ORGANIZER', font=('Consolas', 16, 'bold'), bg='#121212', fg='#39FF14')
 title_lbl.pack(pady=20)
 
 organize_btn = tk.Button(
