@@ -40,10 +40,10 @@ def organize_files():
                     print(f"Error moving {filename}: {e}")
     
     messagebox.showinfo('Chatur v3.0', 'Boss, saari files successfully organize ho gayi hain!')
-
+smart_file_organizer.py
 # --- GUI: Dark Theme & Neon Green Border ---
 root = tk.Tk()
-root.title('Chatur v3.0')
+root.title('SMART FILE ORGANIZER')
 root.geometry('350x200')
 root.configure(bg='#000000') # Deep Black Background
 
